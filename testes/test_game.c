@@ -1,5 +1,11 @@
-#include "unity.h"
-#include "game.h"
+#include "Unity/src/unity.h"
+#include "../game.h"
+
+void setUp(void) {
+}
+
+void tearDown(void) {
+}
 
 // Teste carregar siglas
 void test_carregar_siglas(void) {
