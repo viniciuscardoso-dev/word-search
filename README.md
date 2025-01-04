@@ -22,8 +22,8 @@ Este projeto implementa um jogo simples no qual o jogador deve identificar o sig
 Use o comando abaixo para clonar o repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DO_REPOSITORIO>
+git clone https://github.com/viniciuscardoso-dev/word-search
+cd word-search
 ```
 
 ### 2. Configurar o Ambiente
