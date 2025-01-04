@@ -1,6 +1,6 @@
 #include "game.h"
-#include "<string.h>"
-#include "<stdlib.h>"
+#include <string.h>
+#include <stdlib.h>
 
 #define TOTAL_SIGLAS 16
 
